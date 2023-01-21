@@ -1,5 +1,5 @@
 # Edge-Guided Denoising CNN For Ultrasound Images
-Accepted by ICPR 2020
+Published by ICPR 2020
 
 If you want to use the source code, please contact Yingnan Ma, Fei Yang and Anup Basu.
 
